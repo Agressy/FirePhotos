@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "218483930030",
+    "firebase_url": "https://fire-photos.firebaseio.com",
+    "project_id": "fire-photos",
+    "storage_bucket": "fire-photos.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:218483930030:android:15fdc60357d04c2d",
+        "android_client_info": {
+          "package_name": "com.bortnikov.artem.firephotos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "218483930030-f7hfqovmigivg83v49dpoq9d837a89v6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bortnikov.artem.firephotos",
+            "certificate_hash": "0ee58ecc7f98fb1c7a2966f2c5a611ebd4e1a323"
+          }
+        },
+        {
+          "client_id": "218483930030-2s8e85moefme4thaqb6lmvf3f1qljev3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASKKGiNQ-wSdanRdjvekoZgta8UTK-B6U"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "218483930030-2s8e85moefme4thaqb6lmvf3f1qljev3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
